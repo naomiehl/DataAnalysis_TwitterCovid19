@@ -4,7 +4,12 @@ The main goal is to build a Retweet Prediction Model that predicts how many retw
 In the first part, I did an analysis of the feature in order to understand deeper the dataset. 
 In a second part, I adopted different Machine Learning approaches using data related to the author of the tweet, and to the characteristics of the message itself which includes Sentiment Analysis.
 
-<img src=https://github.com/naomiehl/Twitter_Covid19/blob/main/word_cloud_tweet.png”>
+<img
+src=“word_cloud_tweet.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 ## Feature Engineering
 
